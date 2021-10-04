@@ -83,6 +83,10 @@ img{
     background-color: #f2f2cd;
   }
 
+  img {
+    height: 100px;
+  }
+
   #lezioni .row > .left, #lezioni .row > .right{
     float: none;
     width: 90%;
